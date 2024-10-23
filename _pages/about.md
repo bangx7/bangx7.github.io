@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2023.09 - now*, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)
-- *2020.09 - 2023.06*, [No.1 High School Affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
+- *2020.09 - 2023.06*, [No.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
